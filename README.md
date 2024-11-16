@@ -17,10 +17,10 @@ Além disso, o projeto inclui:
 
 ### Passo a Passo
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/calculadora-imc.git
-   cd calculadora-imc
-    ```
+```bash
+git clone https://github.com/seu-usuario/calculadora-imc.git
+cd calculadora-imc
+```
 2. Crie um ambiente virtual (opcional, mas recomendado):
 ```bash
 python -m venv venv
