@@ -24,9 +24,7 @@ cd calculadora-imc
 2. Crie um ambiente virtual (opcional, mas recomendado):
 ```bash
 python -m venv .venv
-source .venv/Scripts/activate  # Para Windows
-source venv/bin/activate  # Para Linux/Mac
-
+source .venv/Scripts/activate  # Para Linux/Mac
 ```
 
 3. Instale as dependências:
